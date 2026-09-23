@@ -1,0 +1,5 @@
+streamlit
+mediapipe>=0.10.20
+anthropic
+pandas
+numpy
